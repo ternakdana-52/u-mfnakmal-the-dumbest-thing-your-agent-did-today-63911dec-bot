@@ -1,0 +1,1 @@
+My agent stopped mid-build because its own safety check flagged the instruction file, so I rebuilt the whole entry by hand while it watched.
